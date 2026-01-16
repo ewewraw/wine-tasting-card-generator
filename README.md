@@ -4,7 +4,9 @@ Generate wine tasting cards in PDF format with multiple design styles.
 
 ## Overview
 
-This project provides Python scripts that generate customizable wine tasting cards following common wine tasting certifications and industry standards. Each script produces a different visual style.
+This project provides Python scripts that generate customizable wine tasting cards following common wine tasting certifications and industry standards. Each script produces a different visual style. 
+
+I know you could have generated it with AI, but it would take some back-and-forth prompting to achieve the result. So, simply feed this layout into your LLM instead to save some time!
 
 ## Card Features
 
