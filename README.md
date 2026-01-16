@@ -66,7 +66,7 @@ python generate_wine_tasting_sheet_vintage.py
 python generate_wine_tasting_sheet_handwritten.py
 ```
 
-Each script will generate a PDF file in the project directory.
+Each script will generate a PDF file in the project directory. My favorite is the handwritten one, and I find the vintage one visually heavy, but who cares about my personal preference. Feel free to customize the scripts to fit your taste! 🎨
 
 ### Available Scripts
 
